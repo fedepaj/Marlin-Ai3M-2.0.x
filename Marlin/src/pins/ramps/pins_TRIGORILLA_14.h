@@ -37,6 +37,17 @@
   #define SERVO3_PIN                           6
 #endif
 
+#define X_SERIAL_TX_PIN     4
+//#define X_SERIAL_RX_PIN    -1
+#define Y_SERIAL_TX_PIN     5
+//#define Y_SERIAL_RX_PIN    -1
+#define Z_SERIAL_TX_PIN    12
+//#define Z_SERIAL_RX_PIN    -1
+#define Z2_SERIAL_TX_PIN    6
+//#define Z2_SERIAL_RX_PIN   -1
+#define E0_SERIAL_TX_PIN   11
+//#define E0_SERIAL_RX_PIN   -1
+
 //
 // Custom Limit Switches
 //
